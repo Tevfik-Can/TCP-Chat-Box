@@ -22,8 +22,8 @@ Through this project, I've learned the following key concepts:
 
 ### Socket Programming:
 How to use sockets to establish communication between a server and multiple clients.
-### Threading: How to 
-create and manage threads to handle concurrent tasks, such as receiving messages while running the GUI.
+### Threading:
+How to create and manage threads to handle concurrent tasks, such as receiving messages while running the GUI.
 ### Tkinter GUI: 
 How to design and implement a simple graphical user interface for the chat client using Tkinter.
 ### Broadcasting Messages: 
